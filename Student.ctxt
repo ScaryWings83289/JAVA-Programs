@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=rollno\ name
+comment1.target=Student(int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.Object\ clone()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

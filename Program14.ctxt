@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Program14
+comment0.text=\ <applet\ code\="Program14"\ width\=400\ height\=200>\r\n\ <param\ name\="Name"\ value\="Divyankar">\r\n\ <param\ name\="EntryNumber\ value\="18BCS028">\r\n\ </applet>\r\n
+comment1.params=
+comment1.target=void\ init()
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+numComments=3

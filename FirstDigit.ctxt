@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FirstDigit
+comment1.params=n
+comment1.target=int\ Digit(int)
+comment2.params=argc
+comment2.target=void\ main(java.lang.String[])
+numComments=3

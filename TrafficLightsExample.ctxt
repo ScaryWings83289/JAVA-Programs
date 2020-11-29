@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TrafficLightsExample
+comment0.text=\ \r\n\ <applet\ code\ \=\ "TrafficLightsExample"\ width\ \=\ 1000\ height\ \=\ 500>\r\n\ </applet>\ \ \r\n
+comment1.params=
+comment1.target=void\ init()
+comment2.params=ie
+comment2.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+numComments=3
