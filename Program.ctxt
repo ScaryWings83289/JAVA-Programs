@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Program
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ generateCPUChoice()
+comment3.params=cpuChoice\ playerChoice
+comment3.target=void\ generateOutcome(java.lang.String,\ java.lang.String)
+numComments=4

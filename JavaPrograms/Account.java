@@ -1,5 +1,4 @@
 package JavaPrograms;
-
 public class Account{
     int a,b;
     public void setData(int c,int d){
